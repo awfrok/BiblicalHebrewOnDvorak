@@ -2,7 +2,7 @@
 
 ![KeyboardLayout_BiblicalHebrewOnDvorak_v0.1](https://github.com/awfrok/BiblicalHebrewOnDvorak/blob/main/KeyboardLayout_BiblicalHebrewOnDvorak_v0.1.jpg?raw=true)
 
-##  What is it
+##  What it is
 
 - Only the alphabet and vowels are populated, as well as a few marks.
 - Cantillation marks or accents are not populated.
