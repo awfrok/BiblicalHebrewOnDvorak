@@ -1,5 +1,8 @@
 # Biblical Hebrew On Dvorak Layout
 
+Biblical Hebrew Layout on Dvorak in accord with sound
+
+
 ![KeyboardLayout_BiblicalHebrewOnDvorak_v0.1](https://github.com/awfrok/BiblicalHebrewOnDvorak/blob/main/KeyboardLayout_BiblicalHebrewOnDvorak_v0.1.jpg?raw=true)
 
 ##  What is it
