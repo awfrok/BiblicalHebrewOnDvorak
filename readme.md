@@ -11,8 +11,3 @@ Biblical Hebrew Layout on Dvorak in accord with sound
 - One can use Dvorak's marks as placed.
 - The letters in the upper line need to be hit with shift.
 
-## how to use it
-
-- In control panel, set the keyboard layout Dvorak.
-- install [NGS](http://moogi.new21.org/ngs_download.htm). 
-- import the setting file.
