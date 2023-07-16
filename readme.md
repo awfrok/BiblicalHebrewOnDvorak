@@ -3,7 +3,7 @@
 Biblical Hebrew Layout on Dvorak in accord with sound
 
 
-![](https://github.com/awfrok/BiblicalHebrewOnDvorak/blob/main/BiblicalHebrewOnDvorak_0.1.1.jpg?raw=true)
+![](https://github.com/awfrok/BiblicalHebrewOnDvorak/blob/main/BiblicalHebrewOnDvorak_0.1.jpg?raw=true)
 
 
 ##  What is it
