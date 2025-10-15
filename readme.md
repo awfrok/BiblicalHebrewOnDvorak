@@ -1,4 +1,4 @@
-# Biblical Hebrew On Dvorak Layout
+# Biblical Hebrew On Dvorak Layout 
 
 음가를 기준으로 하여 성서 히브리어 글쇠배열을 Dvorak에 어울리에 배열함
 
