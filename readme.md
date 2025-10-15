@@ -4,7 +4,7 @@
 
 Biblical Hebrew populated on Dvorak according to sound.
 
-![](https://github.com/awfrok/BiblicalHebrewOnDvorak/blob/main/BiblicalHebrewOnDvorak_0.1.1.jpg?raw=true)
+![](https://github.com/awfrok/BiblicalHebrewOnDvorak/blob/main/BiblicalHebrewOnDvorak.jpg?raw=true)
 
 ##  What is it
 
