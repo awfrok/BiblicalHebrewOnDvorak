@@ -15,3 +15,7 @@ Biblical Hebrew populated on Dvorak according to sound.
 - The letters in the upper line need to be hit with `shift`.
 - 윗줄을 `Shift`와 함께 사용한다.
 
+## How to use on Windows
+
+- `Ctrl`+`Alt`+`F5` turns on Hebrew input mode.
+- `Ctrl`+`Alt`+`F6` turns off Hebrew input mode.
