@@ -186,7 +186,7 @@ onTooltipHebrew() {
 ;---- Holam
 :*?C:D::{U+05B9} ; ◌ֹ
 ;---- Holam haser for Vav
-:*?C:F::{U+05BA}
+;:*?C:F::{U+05BA}
 
 ;----Qubuts
 :*?C:U::{U+05BB} ; ◌ֻ
